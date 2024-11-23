@@ -15,8 +15,10 @@ As atividades a seguir abordam o básico do HTML:
 7. [Projeto 7: Cadastro de Usuário](Projeto7/index.html)
 
 
-## Aluno
+##  **Colaboradores**
 
-Maxwell Maciel de Sousa - S4
+| **Name**           | **GitHub Profile**                                    |
+|--------------------|-------------------------------------------------------|
+| Rebecca Oliver     | [rebeccaoliver](https://github.com/rebeccaoliver)     |
 
 
