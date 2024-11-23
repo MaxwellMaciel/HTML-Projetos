@@ -1,6 +1,6 @@
 # Projetos-WEB-I-HTML
 
-As 14 atividades iniciais da disciplina cobrem o básico do HTML, incluindo elementos como `<html>`, `<head>`, `<body>`, `<footer>`, `<main>`, `<section>`, `<aside>`, títulos `<h1>` a `<h6>`, parágrafos, listas ordenadas e não ordenadas, links, imagens, tabelas, formulários e comentários.
+Os 7 projetos  da disciplina cobrem o básico do HTML, abordando elementos como parágrafos, listas ordenadas e não ordenadas, links, imagens, tabelas e formulários. Esses projetos envolvem todos os conteúdos de HTML vistos até agora, utilizando-os de maneira isolada ou combinando diferentes elementos dentro de um mesmo arquivo."
 
 ## Atividades de HTML
 
